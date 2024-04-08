@@ -1,7 +1,7 @@
 export PATH=/usr/local/cuda/bin${PATH:+:${PATH}}
 export PATH=~/.local/bin${PATH:+:${PATH}}
 sudo apt update
-
+git config --global user.email sushanth1887@gmail.com
 sudo add-apt-repository ppa:deadsnakes/ppa -y
 
 sudo apt update 

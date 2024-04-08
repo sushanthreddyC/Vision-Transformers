@@ -30,7 +30,7 @@ To set up the project environment:
 
 To start the Jupyter Notebook server:
 
-```bash
+
 - source ./run_jupyter.sh
 
 ## Results
